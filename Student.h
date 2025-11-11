@@ -4,7 +4,9 @@
 #include "Person.h"
 #include <string>
 #using namespace std;
-//#write student class here
+private class Student
+int yearLevel;
+string major;
 
 
 
