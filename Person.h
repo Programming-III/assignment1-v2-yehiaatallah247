@@ -4,8 +4,9 @@
 #include <string>
 using namespace std;
 
-//#write Person class here
-
+private class Person
+string name;
+int id;
 
 
 
